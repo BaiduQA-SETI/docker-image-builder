@@ -42,6 +42,7 @@
 
 ## 依赖
 JDK 1.8+
+
 [Docker Registry Server][1]
 
 [Docker Engine with API][2]
